@@ -576,7 +576,7 @@ export const Contact = () => {
 
             <Card className="border-border/50 bg-primary/10 backdrop-blur-sm">
               <div className="p-6 text-center">
-                <h3 className="mb-2 text-xl font-bold">CEO</h3>
+                <h3 className="mb-2 text-xl font-bold">Director</h3>
                 <p className="text-lg">Mr. Arif A. S. Sayed</p>
                 <p className="mt-2 text-sm text-muted-foreground">
                   Leading with 15+ years of expertise

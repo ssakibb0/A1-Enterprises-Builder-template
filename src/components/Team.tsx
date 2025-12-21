@@ -278,7 +278,7 @@ export const Team = () => {
 
                   <div className="absolute bottom-4 left-4 md:hidden z-20">
                     <span className="px-3 py-1 bg-primary text-primary-foreground text-xs font-bold uppercase tracking-wider rounded-full">
-                      Founder & CEO
+                      Director
                     </span>
                   </div>
                 </div>
@@ -287,12 +287,12 @@ export const Team = () => {
                 <div className="p-8 md:p-12 flex flex-col justify-center">
                   <div className="hidden md:inline-block mb-4">
                     <span className="px-4 py-2 bg-gradient-to-r from-primary/20 to-accent/20 text-primary text-sm font-bold uppercase tracking-wider rounded-full border border-primary/30">
-                      Founder & CEO
+                      Director
                     </span>
                   </div>
 
                   <h3 className="text-3xl md:text-4xl font-bold mb-2">Mr. Arif A. S. Sayed</h3>
-                  <p className="text-primary font-semibold mb-6">Chief Executive Officer</p>
+                  <p className="text-primary font-semibold mb-6">Founder & Managing Director</p>
 
                   <p className="text-muted-foreground mb-6 leading-relaxed">
                     A visionary leader with over 15+ years of experience in the construction and real estate industry.
